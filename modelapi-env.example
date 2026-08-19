@@ -1,0 +1,4 @@
+# Copy these values into your shell or secrets manager. Do not commit a real key.
+export ANTHROPIC_BASE_URL="https://api.aimodelapi.ai"
+export ANTHROPIC_API_KEY="sk-ama-YOUR_KEY"
+
